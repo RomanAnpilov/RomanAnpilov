@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanAnpilov
-- 👀 I’m interested in C++ And Game Development
-- 🌱 I’m currently learning C++ and Math
+- 👀 I’m interested in Web and Mobile Full Stack Development
+- 🌱 I’m currently learning React and Node JS
 - 💞️ I’m looking to collaborate on Startups and new Ideas!
 - 📫 How to reach me rebokuter@gmail.com
 
