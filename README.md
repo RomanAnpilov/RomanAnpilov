@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RomanAnpilov
-- 👀 I’m interested in Web and Mobile Full Stack Development
-- 🌱 I’m currently learning React and Node JS
+- 👋 Hi, I’m @RomanAnpilov  Developer
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning Swift and Objective-C
 - 💞️ I’m looking to collaborate on Startups and new Ideas!
 - 📫 How to reach me rebokuter@gmail.com
 
